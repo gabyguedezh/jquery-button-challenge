@@ -58,4 +58,10 @@ p{
 .selected{
     background-color: #F07D00;
 }
- 
+
+/* Challenge Add Ons */
+
+.makeBlack {
+    background-color: black;
+}
+/* End of Challenge Add Ons */
